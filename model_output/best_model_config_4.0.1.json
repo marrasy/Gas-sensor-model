@@ -1,0 +1,12 @@
+{
+    "model_name": "MLP",
+    "params": {
+        "hidden_dim": 60,
+        "num_heads": 2,
+        "lr": 0.001,
+        "epochs": 500,
+        "dropout": 0.1,
+        "num_layers": 3
+    },
+    "Acc_score": 0.8229166666666666
+}

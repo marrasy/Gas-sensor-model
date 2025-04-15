@@ -1,0 +1,12 @@
+{
+    "model_name": "LSTM",
+    "params": {
+        "hidden_dim": 48,
+        "num_heads": 8,
+        "lr": 0.001,
+        "epochs": 500,
+        "dropout": 0.1,
+        "num_layers": 3
+    },
+    "f1_score": 0.7659060846560847
+}
